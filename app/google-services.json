@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558010274252",
+    "firebase_url": "https://android-developers-blog.firebaseio.com",
+    "project_id": "android-developers-blog",
+    "storage_bucket": "android-developers-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558010274252:android:aba7f3fb90fa7ef0",
+        "android_client_info": {
+          "package_name": "br.com.trmamobilesolutions.androiddevelopersblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558010274252-4v2f7925a55ku7rpjtalnvmtlae5gak3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.trmamobilesolutions.androiddevelopersblog",
+            "certificate_hash": "c78094b806ce73ab509e7ecf5bf704ec1a559007"
+          }
+        },
+        {
+          "client_id": "558010274252-jhudu3fecq21hm11pjb5nphkvmaqdgs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYzUAyvvoM-mgTKBsF7hT58Zk9qK-SI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558010274252-jhudu3fecq21hm11pjb5nphkvmaqdgs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

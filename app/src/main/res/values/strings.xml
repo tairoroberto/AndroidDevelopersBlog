@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Developers Blog</string>
+    <string name="action_settings">Settings</string>
+    <string name="client_id">558010274252-fj0jqv1ei9elbcudj3f4gg6nf1b50mgg.apps.googleusercontent.com</string>
+    <string name="api_key">AIzaSyBfMtrk3LL8fUK14FdF5D3ei4vUGBY6rkM</string>
+    <string name="url_base">https://www.googleapis.com/blogger/v3/blogs/6755709643044947179/</string>
+</resources>
