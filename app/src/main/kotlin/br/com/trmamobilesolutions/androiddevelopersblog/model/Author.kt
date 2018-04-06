@@ -1,4 +1,4 @@
-package br.com.trmamobilesolutions.androiddevelopersblog
+package br.com.trmamobilesolutions.androiddevelopersblog.model
 
 import com.google.gson.annotations.SerializedName
 
